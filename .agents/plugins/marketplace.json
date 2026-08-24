@@ -8,8 +8,8 @@
       "name": "jv-matter-plugin",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/TheMisfit68/JVAI.git",
-        "path": "./plugins/jv-matter-plugin",
+        "url": "https://github.com/TheMisfit68/jv-matter-plugin.git",
+        "path": ".",
         "ref": "main"
       },
       "policy": {
@@ -22,8 +22,8 @@
       "name": "jv-embedded-plugin",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/TheMisfit68/JVAI.git",
-        "path": "./plugins/jv-embedded-plugin",
+        "url": "https://github.com/TheMisfit68/jv-embedded-plugin.git",
+        "path": ".",
         "ref": "main"
       },
       "policy": {
@@ -36,8 +36,8 @@
       "name": "jv-coding-style-plugin",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/TheMisfit68/JVAI.git",
-        "path": "./plugins/jv-coding-style-plugin",
+        "url": "https://github.com/TheMisfit68/jv-coding-style-plugin.git",
+        "path": ".",
         "ref": "main"
       },
       "policy": {
@@ -50,8 +50,8 @@
       "name": "jv-git-plugin",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/TheMisfit68/JVAI.git",
-        "path": "./plugins/jv-git-plugin",
+        "url": "https://github.com/TheMisfit68/jv-git-plugin.git",
+        "path": ".",
         "ref": "main"
       },
       "policy": {
