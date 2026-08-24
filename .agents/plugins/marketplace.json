@@ -1,0 +1,64 @@
+{
+  "name": "built-by-jv",
+  "interface": {
+    "displayName": "Built by JV"
+  },
+  "plugins": [
+    {
+      "name": "jv-matter",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/TheMisfit68/JVAI.git",
+        "path": "./plugins/jv-matter",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Embedded developer Tools"
+    },
+    {
+      "name": "jv-embedded",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/TheMisfit68/JVAI.git",
+        "path": "./plugins/jv-embedded",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Embedded developer Tools"
+    },
+    {
+      "name": "jv-coding-style",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/TheMisfit68/JVAI.git",
+        "path": "./plugins/jv-coding-style",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "jv-git",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/TheMisfit68/JVAI.git",
+        "path": "./plugins/jv-git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
