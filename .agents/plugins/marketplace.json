@@ -5,11 +5,11 @@
   },
   "plugins": [
     {
-      "name": "jv-matter",
+      "name": "jv-matter-plugin",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/TheMisfit68/JVAI.git",
-        "path": "./plugins/jv-matter",
+        "path": "./plugins/jv-matter-plugin",
         "ref": "main"
       },
       "policy": {
@@ -19,11 +19,11 @@
       "category": "Embedded developer Tools"
     },
     {
-      "name": "jv-embedded",
+      "name": "jv-embedded-plugin",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/TheMisfit68/JVAI.git",
-        "path": "./plugins/jv-embedded",
+        "path": "./plugins/jv-embedded-plugin",
         "ref": "main"
       },
       "policy": {
