@@ -33,11 +33,11 @@
       "category": "Embedded developer Tools"
     },
     {
-      "name": "jv-coding-style",
+      "name": "jv-coding-style-plugin",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/TheMisfit68/JVAI.git",
-        "path": "./plugins/jv-coding-style",
+        "path": "./plugins/jv-coding-style-plugin",
         "ref": "main"
       },
       "policy": {
@@ -47,11 +47,11 @@
       "category": "Developer Tools"
     },
     {
-      "name": "jv-git",
+      "name": "jv-git-plugin",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/TheMisfit68/JVAI.git",
-        "path": "./plugins/jv-git",
+        "path": "./plugins/jv-git-plugin",
         "ref": "main"
       },
       "policy": {
