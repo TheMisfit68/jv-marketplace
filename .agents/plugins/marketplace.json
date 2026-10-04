@@ -58,6 +58,9 @@
     },
     {
       "name": "jv-ai-plugin",
+      "interface": {
+        "displayName": "JV AI"
+      },
       "source": {
         "source": "url",
         "url": "https://github.com/TheMisfit68/jv-ai-plugin.git",
